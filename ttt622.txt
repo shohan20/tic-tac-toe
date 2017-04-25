@@ -1,0 +1,8 @@
+1  Tic tac toe is made of 3x3 grid.
+2  Two players take X and O.
+3  you have to play this game with 1-9 number.
+4  if you input 3 ,then there will be a sign in 
+    row 3 column 1 according to your marks.
+5  The player who succeeds in placing three of 
+     their marks in a horizontal, vertical, or
+        diagonal row wins the game.
